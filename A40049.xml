@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Foure fugitives meeting, or, The Discourse amongst my Lord Finche, Sir Francis Windebank, Sir Iohn Sucklin, and Doctor Roane as they accidently met in France with a detection of their severall pranks in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40049</idno>
+            <idno type="STC">Wing F1654</idno>
+            <idno type="STC">ESTC R28645</idno>
+            <idno type="EEBO-CITATION">10731786</idno>
+            <idno type="OCLC">ocm 10731786</idno>
+            <idno type="VID">45551</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45551)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1402:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Foure fugitives meeting, or, The Discourse amongst my Lord Finche, Sir Francis Windebank, Sir Iohn Sucklin, and Doctor Roane as they accidently met in France with a detection of their severall pranks in England.</title>
+               </titleStmt>
+               <extent>5 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finch, John, --  Sir, 1584-1660.</term>
+               <term>Suckling, John, --  Sir, 1609-1642.</term>
+               <term>Windebank, Francis, --  Sir, 1582-1646.</term>
+               <term>Great Britain --  Politics and government --  1603-1649 --  Anecdotes</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45551:1"/>
+            <pb facs="tcp:45551:1"/>
+            <p>Foure fugitives meeting OR, The Diſcourſe amongſt my <hi>Lord Finch</hi> Sir <hi>Francis Windebank,</hi> Sir <hi>Iohn Sucklin,</hi> and <hi>Doctor Roane,</hi> as they accidentally met in <hi>France,</hi> with a detection of their ſeverall pranks in ENGLAND.</p>
+            <figure>
+               <figDesc>woodcut, two men</figDesc>
+            </figure>
+            <p>Printed In the Yeare, 16<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45551:2"/>
+            <pb n="1" facs="tcp:45551:2"/>
+            <head>Foure Fugitives meeting, &amp;c.</head>
+            <sp>
+               <speaker>Suckling.</speaker>
+               <p>IMmenſe Doctor <hi>Roan,</hi> you are moſt happily encountred, they have wiſht your Company a long time in England, the poor Civilians look like ſpirits now they are deprived of their body.</p>
+            </sp>
+            <sp>
+               <speaker>Roan.</speaker>
+               <p>Body Sir John, what doe you meane?</p>
+            </sp>
+            <sp>
+               <speaker>Suck.</speaker>
+               <p>Why the Body of the civill Law, <hi>Cor<g ref="char:EOLhyphen"/>pus Iuris Civilis,</hi> for ſo they call you.</p>
+            </sp>
+            <sp>
+               <speaker>Roan.</speaker>
+               <p>And pardon of your Poetry, how fate your hundred Horſe i'th North, doe they ſtand to their colours, now their Commander is fled? I wonder much Sir John, that you being a noble Gentleman, a Commander, and a Volunteere, that would leave your poore ſouldiers without pay, and come away without taking leave of your Friends.</p>
+            </sp>
+            <sp>
+               <speaker>Wind.</speaker>
+               <p>I heard that Sir John had made a new play, and for feare leſt it ſhould be hiſt off the ſtage, betooke himſelfe to travell.</p>
+            </sp>
+            <sp>
+               <speaker>Finch.</speaker>
+               <p>And I have heard, that by reaſon of his abſence, that play was not worth the ſtudying, there was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> plot in it that could not well be underſtood, there were two Poets in it that were ſound to bee the chiefe Politicians, which the State perceiving, made diligent pur<g ref="char:EOLhyphen"/>ſuit
+<pb n="2" facs="tcp:45551:3"/> after them, the one whereof had the happi<g ref="char:EOLhyphen"/>neſſe to eſcape, the other was apprehended, and then the Play ended, before the Poets execution which was very much diſliked.</p>
+            </sp>
+            <sp>
+               <speaker>Suck.</speaker>
+               <p>How came you to the knowledge of this, my good Lord Finch, you doe not flye o<g ref="char:EOLhyphen"/>ver into England every night, and there load your ſelfe with newes againſt the morning, doe you?</p>
+            </sp>
+            <sp>
+               <speaker>Wind.</speaker>
+               <p>No Sir John, he needes not, wee were informed by—</p>
+            </sp>
+            <sp>
+               <speaker>Suck</speaker>
+               <p>Spare your Wind, good M. Secretary VVindebank, I perceive you hold intelligence with thoſe Jeſuits, you compounded withall at ſo eaſie a rate.</p>
+            </sp>
+            <sp>
+               <speaker>Roan.</speaker>
+               <p>Still you are beſide the marke, we were inform'd Sir John by one <hi>Kilſcot,</hi> one of your VVorſhips Cap and Feather men, who came o<g ref="char:EOLhyphen"/>ver hither to know if your voyage into <hi>Portugal</hi> held or no, he ſaid that ſome two or three hun<g ref="char:EOLhyphen"/>dred buffe-men did much admire, that now the way is faire, you will not be their guide, they would fanc have kiſt their diſcontented Colo<g ref="char:EOLhyphen"/>nels hand before he miſtooke <hi>Franco</hi> for <hi>Portu<g ref="char:EOLhyphen"/>gall,</hi> but you were ſo unkind to leave them on a ſudden.</p>
+            </sp>
+            <sp>
+               <speaker>Suc.</speaker>
+               <p>Hold there good Doctor <hi>Roane,</hi> and take me with you, you are to be blam'd too, for not bidding farewell to Sir <hi>Paul <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inder,</hi> (at whoſe beauteous houſe, you have devoured the carkaſſe
+<pb n="3" facs="tcp:45551:3"/> of many <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Capo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) before you <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed but I wonder more, why you came hither ſo unpro<g ref="char:EOLhyphen"/>vided; methinks ſome Engliſh dyet would have bin good for a weake ſtomack: the Church-VVardens of North-hampton-Shire promiſed to give you a good ſee, if you will goe to 'em, and reſolve 'em whether they may lawfully take the oath &amp;c. or no.</p>
+            </sp>
+            <sp>
+               <speaker>Wind.</speaker>
+               <p>That may very well be, for they have given him a great Addition, they ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him, Og the great Commiſſary, they ſay he was as briske in diſcharging the new Canons, as he that made them, but I pray Sir John, relate the cauſe of your comming hither.</p>
+            </sp>
+            <sp>
+               <speaker>Suc.</speaker>
+               <p>Then muſt I addreſſe my ſelfe to you, my good Lord Finch, I have ſome papers to de<g ref="char:EOLhyphen"/>liver you from the commons of England, who are ſorry they are deprived your company, and promiſe if your Lordſhip will go into England and collect the Ship money, they will with all willingneſſe pay you.</p>
+            </sp>
+            <sp>
+               <speaker>Finch.</speaker>
+               <p>VVith a Powder will they not Sir John, you have not forgot the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>irmiſh i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th North, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave you, you call the poor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sco<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Pedlars, but they were angry, and made your fiery horſe run <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>way with you.</p>
+            </sp>
+            <sp>
+               <speaker>Wind.</speaker>
+               <p>I thinke, Sir Iohn, your co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of Male would ſcar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e have kept out the Pedlars bullets, as it did the Ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ier, in Black-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ryars, when you came from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="4" facs="tcp:45551:4"/>Suc.</speaker>
+               <p>No more I believe would your high and mighty ſtate have ſecured your neck, had you ſtaid there.</p>
+            </sp>
+            <sp>
+               <speaker>Wind.</speaker>
+               <p>I am of opinion, that my Lord of <hi>Canterbury</hi> would remit the greateſt fine in the high Commiſſion, on the condition hee were here, but I believe, if I had ſtaid, all his To<g ref="char:EOLhyphen"/>bacco would not have cur'd the ſtopping in my throat, if it ſecure his owne, tis well.</p>
+            </sp>
+            <sp>
+               <speaker>Suc.</speaker>
+               <p>For my part, I ever held my head to be my ſelf, and honour to be but my neighbour, and the rules of nature command me to love my ſelfe better then my neighbour; I lov'd ho<g ref="char:EOLhyphen"/>nour well, but not with ſuch a zeale to venture my life for her when I my ſelfe could never en<g ref="char:EOLhyphen"/>joy her.</p>
+            </sp>
+            <sp>
+               <speaker>Roan.</speaker>
+               <p>Well ſaid of all ſides, why ſhould we that are all alike, fall out, come, lets to dinner, you ſhall fall to your dainty diſhes, but give me a rib and a leg, Roaſt-beefe and Capon, the very meat I eate at the commons, and then after din<g ref="char:EOLhyphen"/>ner wee'l play a game at Ticktake or Iriſh, for halfe a-pound of reaſons.</p>
+            </sp>
+            <sp>
+               <speaker>Suc.</speaker>
+               <p>Pox upon reaſons, I cannot endure your mechanicke games, He play at Inne and Inne for a Piece the Caſter, my old game.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="5" facs="tcp:45551:4"/>Wind.</speaker>
+               <p>No Sir John, you may excuſe your friends, and uſe the art of ſlirring a dye to ſtran<g ref="char:EOLhyphen"/>gers, win their money and welcome.</p>
+            </sp>
+            <sp>
+               <speaker>Finch.</speaker>
+               <p>I Sir John, 'tis charity to cheat the Monſieurs, you uſe your Quick-ſilverd dye, a<g ref="char:EOLhyphen"/>mongſt them as ſecurely as you could in En<g ref="char:EOLhyphen"/>gland, and when you have got their money, wee'l ſpend it bravely.</p>
+            </sp>
+            <sp>
+               <speaker>Suc.</speaker>
+               <lg type="couplet">
+                  <l>
+                     <hi>Come my brave boyes, money weel never lack,</hi>
+                  </l>
+                  <l>
+                     <hi>But drowne our ſorrowes in a cup of Sack.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
